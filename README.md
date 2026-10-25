@@ -1,2 +1,5 @@
-# networksecurity
-Network Security ML pipeline for phishing detection - Abhi Gupta
+﻿# Network Security - Phishing Data Detection
+
+End-to-end Machine Learning pipeline to detect network security phishing threats.
+
+**Author:** Abhi Gupta
